@@ -39,8 +39,9 @@
 
 ## 📸 效果预览
 <img width="544" height="1133" alt="715b9e33742fc7392fcf4b3de83a9e03" src="https://github.com/user-attachments/assets/f9cae8db-c020-446e-bcb1-47e336b17147" />
-```
+
 注：屏蔽华为是因为已经投过了，但是华为的hr太多了，容易重复投递
+```
 配置岗位/城市/数量  →  开始收集+AI筛选  →  审核勾选  →  自动投递  →  ✓ 完成
 ```
 
