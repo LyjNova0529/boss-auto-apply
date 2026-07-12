@@ -38,8 +38,8 @@
 - 🛡️ **拟人化节奏**：随机延迟、逐个投递，自然防风控；已投去重不重复打扰
 
 ## 📸 效果预览
-<img width="548" height="1403" alt="7c18746f77e91c27bdc3ef95c48a1636" src="https://github.com/user-attachments/assets/3c4a879e-8a7f-41ea-87fa-44664e1f42b3" />
-
+<img width="544" height="1133" alt="715b9e33742fc7392fcf4b3de83a9e03" src="https://github.com/user-attachments/assets/f9cae8db-c020-446e-bcb1-47e336b17147" />
+注：屏蔽华为是因为已经投过了，但是华为的hr太多了，容易重复投递
 
 
 ```
